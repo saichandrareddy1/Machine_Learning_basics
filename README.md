@@ -2,6 +2,6 @@
 
 Hello Machine Freaks!
 
-I disscussed about The Basic Machine Learning algorithms
+I going to discuss about The Basic Machine Learning algorithms
 
-Follow me more Updates
+Follow me more for Updates
