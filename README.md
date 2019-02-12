@@ -9,6 +9,12 @@ I going to discuss about The Basic Machine Learning algorithms
 SVM uses for the classification of the data  
 2. SUPPORT VECTOR REGRESSION 
 SVR used for the prediction of the feature data (Regression)
+
+===================================================================================
+https://en.wikipedia.org/wiki/Mean_squared_error
+https://en.wikipedia.org/wiki/Support-vector_machine
+Once go through this link
+
 ==================DECISION TREE==================
 Coming Soon----->>>
 
