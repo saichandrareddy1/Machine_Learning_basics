@@ -15,7 +15,7 @@ https://en.wikipedia.org/wiki/Mean_squared_error
 https://en.wikipedia.org/wiki/Support-vector_machine
 Once go through this link
 
-==================DECISION TREE====================================================
+==================DECISION TREE=========================================================
 3. Decision Tree Classifier
 https://www.saedsayad.com/decision_tree.htm     Go through this link
 
