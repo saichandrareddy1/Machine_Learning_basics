@@ -15,8 +15,8 @@ https://en.wikipedia.org/wiki/Mean_squared_error
 https://en.wikipedia.org/wiki/Support-vector_machine
 Once go through this link
 
-==================DECISION TREE==================
-Coming Soon----->>>
+==================DECISION TREE====================================================
+https://www.saedsayad.com/decision_tree.htm     Go through this link
 
 
 Difference Between the Classification and Regression
