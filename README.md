@@ -19,8 +19,11 @@ Once go through this link
 3. Decision Tree Classifier
 https://www.saedsayad.com/decision_tree.htm     Go through this link
 
-4. Decision Tree Regressor ---->>>>
+4. Decision Tree Regressor  
+https://scikit-learn.org/stable/modules/generated/sklearn.tree.DecisionTreeRegressor.html -->>>go through this link
+https://www.geeksforgeeks.org/python-decision-tree-regression-using-sklearn/ ----->> here also
 
+=======================Random Forest=====================================================
 
 Difference Between the Classification and Regression
 
