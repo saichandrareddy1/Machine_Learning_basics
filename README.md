@@ -24,6 +24,11 @@ https://scikit-learn.org/stable/modules/generated/sklearn.tree.DecisionTreeRegre
 https://www.geeksforgeeks.org/python-decision-tree-regression-using-sklearn/ ----->> here also
 
 =======================Random Forest=====================================================
+5.RandomForestClassifier
+https://medium.com/machine-learning-101/chapter-5-random-forest-classifier-56dc7425c3e1
+https://towardsdatascience.com/the-random-forest-algorithm-d457d499ffcd
+
+6.RandomForestRegressor------------------------------->>>ComingSOON
 
 Difference Between the Classification and Regression
 
