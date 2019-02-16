@@ -28,7 +28,11 @@ https://www.geeksforgeeks.org/python-decision-tree-regression-using-sklearn/ ---
 https://medium.com/machine-learning-101/chapter-5-random-forest-classifier-56dc7425c3e1
 https://towardsdatascience.com/the-random-forest-algorithm-d457d499ffcd
 
-6.RandomForestRegressor------------------------------->>>ComingSOON
+6.RandomForestRegressor
+https://towardsdatascience.com/random-forest-in-python-24d0893d51c0
+
+=====================================================K-Nearest-Nighbors===
+comingSOON
 
 Difference Between the Classification and Regression
 
