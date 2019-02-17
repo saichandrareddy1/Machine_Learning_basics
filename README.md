@@ -31,8 +31,10 @@ https://towardsdatascience.com/the-random-forest-algorithm-d457d499ffcd
 6.RandomForestRegressor
 https://towardsdatascience.com/random-forest-in-python-24d0893d51c0
 
-=====================================================K-Nearest-Nighbors===
-comingSOON
+=====================K-Nearest-Nighbors==========================================
+7.KNN CLASSIIFER
+https://www.saedsayad.com/k_nearest_neighbors.htm
+8.KNN Regressor-----Coming Soon
 
 Difference Between the Classification and Regression
 
