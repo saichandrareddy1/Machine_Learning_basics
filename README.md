@@ -36,6 +36,10 @@ https://towardsdatascience.com/random-forest-in-python-24d0893d51c0
 https://www.saedsayad.com/k_nearest_neighbors.htm
 8.KNN Regressor-----Coming Soon
 
+=================================Logistic Regressor===============================
+https://machinelearningmastery.com/logistic-regression-for-machine-learning/
+https://towardsdatascience.com/machine-learning-part-3-logistics-regression-9d890928680f
+
 Difference Between the Classification and Regression
 
 ===========================================CLASSIFICATION===========================
