@@ -40,6 +40,10 @@ https://www.saedsayad.com/k_nearest_neighbors.htm
 https://machinelearningmastery.com/logistic-regression-for-machine-learning/
 https://towardsdatascience.com/machine-learning-part-3-logistics-regression-9d890928680f
 
+==================================Naive Bayes========================================
+http://scikit-learn.org/stable/modules/generated/sklearn.naive_bayes.GaussianNB.html
+
+
 Difference Between the Classification and Regression
 
 ===========================================CLASSIFICATION===========================
