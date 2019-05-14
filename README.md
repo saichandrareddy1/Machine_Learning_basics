@@ -1,6 +1,6 @@
 # Machine_Learning_basics
 
-Hello Machine Freaks!
+Hello Machine learning Freaks!
 
 I going to discuss about The Basic Machine Learning algorithms
 
@@ -54,7 +54,10 @@ Difference Between the Classification and Regression
 
 ==========================================Regression================================
 1.Regression means the presicting the future data like(StockMarket prediction, House rate, etc...)
-2.Regression says about error in the data
+2.Regression says about error in the data                                                                                               
+                                                                                                                                      
+=============================================CONFUSION MATRIX==============================                                          
+https://www.dataschool.io/simple-guide-to-confusion-matrix-terminology/
 
 
 Follow me more for Updates
